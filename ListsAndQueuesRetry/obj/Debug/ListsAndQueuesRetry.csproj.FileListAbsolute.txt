@@ -1,0 +1,7 @@
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesRetry\bin\Debug\ListsAndQueuesRetry.exe.config
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesRetry\bin\Debug\ListsAndQueuesRetry.exe
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesRetry\bin\Debug\ListsAndQueuesRetry.pdb
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesRetry\obj\Debug\ListsAndQueuesRetry.csprojResolveAssemblyReference.cache
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesRetry\obj\Debug\ListsAndQueuesRetry.csproj.CoreCompileInputs.cache
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesRetry\obj\Debug\ListsAndQueuesRetry.exe
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesRetry\obj\Debug\ListsAndQueuesRetry.pdb

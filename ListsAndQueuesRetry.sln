@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsAndQueuesRetry", "ListsAndQueuesRetry\ListsAndQueuesRetry.csproj", "{71857940-D91D-49B1-AE81-552D1D6A9BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71857940-D91D-49B1-AE81-552D1D6A9BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71857940-D91D-49B1-AE81-552D1D6A9BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71857940-D91D-49B1-AE81-552D1D6A9BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71857940-D91D-49B1-AE81-552D1D6A9BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2D15B32-BF56-4A3E-9020-EAC6D5FAB64D}
+	EndGlobalSection
+EndGlobal
