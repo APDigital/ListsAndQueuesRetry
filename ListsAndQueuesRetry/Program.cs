@@ -30,7 +30,7 @@ namespace ListsAndQueuesRetry
             list.Insert("E");
             Console.WriteLine("List: " + list);
 
-            list.InsertAfter(link4, "[4a]");
+            //list.InsertAfter(link4, "[4a]");
             Console.WriteLine("List: " + list);
             Console.Read();
         }

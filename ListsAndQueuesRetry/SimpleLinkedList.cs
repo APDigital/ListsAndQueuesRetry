@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ListsAndQueuesRetry
 {
-    class SimpleLinkedList
+    public class SimpleLinkedList
     {
         public void GetLinkedList(LinkedList<string> linkedList, string data)
         {

@@ -1,0 +1,16 @@
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\ListsAndQueuesTests.dll
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\ListsAndQueuesTests.pdb
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\ListsAndQueuesRetry.exe
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\ListsAndQueuesRetry.pdb
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\ListsAndQueuesRetry.exe.config
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\obj\Debug\ListsAndQueuesTests.csprojResolveAssemblyReference.cache
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\obj\Debug\ListsAndQueuesTests.csproj.CoreCompileInputs.cache
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\obj\Debug\ListsAndQueuesTests.dll
+c:\users\apearson\source\repos\ListsAndQueuesRetry\ListsAndQueuesTests\obj\Debug\ListsAndQueuesTests.pdb

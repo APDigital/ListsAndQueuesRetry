@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ListsAndQueuesRetry
 {
-    class SingleLinkedList
+    public class SingleLinkedList
     {
         public Node First { get; set; }
         public Node Last { get; set; }

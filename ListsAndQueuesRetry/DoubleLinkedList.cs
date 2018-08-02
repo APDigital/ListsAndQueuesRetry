@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace ListsAndQueuesRetry
 {
-    class DoubleLinkedList
+    public class DoubleLinkedList
     {
-        private DoubleLink first;
+        public DoubleLink first;
         public bool IsEmpty
         {
             get
@@ -24,17 +24,18 @@ namespace ListsAndQueuesRetry
         {
             DoubleLink link = new DoubleLink(node);
             link.NextNode = first;
-            if (first == null)
+            if (first != null)
             {
                 first.PreviousNode = link;
                 first = link;
-
             }
+
             return link;
         }
-        public DoubleLink Delete()
+        public DoubleLink Delete(string deleteItem)
         {
-            DoubleLink firstLink = first;
+            DoubleLink doubleLinkDelete = new DoubleLink(deleteItem);
+            first = doubleLinkDelete;
             if (first != null)
             {
                 first = first.NextNode;
@@ -43,7 +44,7 @@ namespace ListsAndQueuesRetry
                     first.PreviousNode = null;
                 }
             }
-            return firstLink;
+            return first;
         }
         public override string ToString()
         {
@@ -56,24 +57,17 @@ namespace ListsAndQueuesRetry
             }
             return str.ToString();
         }
-        public void InsertAfter(DoubleLink link, string node)
+        public void InsertAfter(DoubleLinkedList list, DoubleLink insertLink, DoubleLink currentLink)
         {
-            if (link == null || string.IsNullOrEmpty(node))
+            if (first == null)
             {
-                return;
+                list.Insert(currentLink.Node);
             }
-            DoubleLink newLink = new DoubleLink(node);
-            newLink.PreviousNode = link;
+            list.Insert(insertLink.Node);
+            currentLink.NextNode = insertLink;
+            insertLink.PreviousNode = currentLink;
 
-            if (link.NextNode != null)
-            {
-                link.NextNode = link;
-            }
-            else
-            {
-                newLink.NextNode = link.NextNode;
-                link.NextNode = newLink;
-            }
+            
         }
     }
 }

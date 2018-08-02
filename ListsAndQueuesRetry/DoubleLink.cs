@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ListsAndQueuesRetry
 {
-    class DoubleLink
+    public class DoubleLink
     {
         public string Node { get; set; }
         public DoubleLink PreviousNode { get; set; }

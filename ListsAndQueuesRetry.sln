@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsAndQueuesRetry", "ListsAndQueuesRetry\ListsAndQueuesRetry.csproj", "{71857940-D91D-49B1-AE81-552D1D6A9BAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsAndQueuesTests", "ListsAndQueuesTests\ListsAndQueuesTests.csproj", "{19795E00-95C9-4C2D-8752-B74A2A182B82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{71857940-D91D-49B1-AE81-552D1D6A9BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71857940-D91D-49B1-AE81-552D1D6A9BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71857940-D91D-49B1-AE81-552D1D6A9BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19795E00-95C9-4C2D-8752-B74A2A182B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19795E00-95C9-4C2D-8752-B74A2A182B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19795E00-95C9-4C2D-8752-B74A2A182B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19795E00-95C9-4C2D-8752-B74A2A182B82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
